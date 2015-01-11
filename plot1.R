@@ -1,5 +1,5 @@
 
-setwd("C:/Users/david/datasciencecoursera/Exploratory Data Analysis/Week1/proj1/ExData_Plotting1")
+setwd("C:/Users/david/datasciencecoursera/Exploratory Data Analysis/Week1/proj1")
 filename <- "./household_power_consumption.txt"
 subsetfile <- "./hpc-subset.Rd"
 
