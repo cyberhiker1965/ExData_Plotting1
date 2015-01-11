@@ -40,6 +40,6 @@ hist(consumption$Global_active_power,col="red",
      xlab="Global Active Power (kilowatts)" )
 
 # copy the plot to a png file 
-dev.copy(png, file = plotfilename)
+dev.copy(png, file = plotfilename, width=480, height=480)
 
 dev.off()
